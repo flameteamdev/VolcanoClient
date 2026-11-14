@@ -1,0 +1,10 @@
+{
+  "version": "0.2.0",
+  "releaseDate": "2026-11-12",
+  "changelog": [
+    "Tryb offline: gra bez konta Microsoft — wystarczy nick, z ostrzeżeniem, że działa tylko na serwerach w trybie offline.",
+    "Asystent wydajności w Ustawieniach → Gra: analiza pamięci RAM, Javy, loadera i modów z konkretnymi zaleceniami.",
+    "Gotowe flagi wydajnościowe JVM (zestaw Aikar/G1GC) z podglądem, kopiowaniem i ustawianiem jednym kliknięciem.",
+    "Diagnostyka crashów: rozpoznawanie Fabric, Forge i NeoForge oraz wskazywanie moda odpowiedzialnego za błąd."
+  ]
+}
